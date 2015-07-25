@@ -1,6 +1,6 @@
 {
   "name": "is-css-length",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Check if a string is CSS value of the length",
   "main": "index.js",
   "scripts": {
