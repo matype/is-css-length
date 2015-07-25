@@ -2,13 +2,22 @@
 
 Check if a string is CSS value of the length
 
-## Installation
+## Install
 
 ```shell
 $ npm install is-css-length
 ```
 
-## Example
+## Usage
+
+```js
+var isLength = require('is-css-length')
+
+isLength(10px) // true
+isLength(10)   // false
+isLength(0)    // true
+isLength(0em)  // false
+```
 
 ## License
 
