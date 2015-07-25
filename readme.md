@@ -15,8 +15,8 @@ var isLength = require('is-css-length')
 
 isLength(10px) // true
 isLength(10)   // false
+isLength(0em)  // true
 isLength(0)    // true
-isLength(0em)  // false
 ```
 
 ## License
