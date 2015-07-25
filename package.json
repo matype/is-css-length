@@ -10,10 +10,14 @@
     "type": "git",
     "url": "git://github.com/morishitter/is-css-length/git"
   },
-  "keywords": ["is","css"],
+  "keywords": [
+    "is",
+    "css"
+  ],
   "author": "Masaaki Morishita",
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
+    "tape": "^4.0.1"
   }
 }
