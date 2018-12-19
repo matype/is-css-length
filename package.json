@@ -1,8 +1,9 @@
 {
   "name": "is-css-length",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Check if a string is CSS value of the length",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "test": "tape test"
   },
@@ -16,7 +17,6 @@
   ],
   "author": "Masaaki Morishita",
   "license": "MIT",
-  "dependencies": {},
   "devDependencies": {
     "tape": "^4.0.1"
   }
